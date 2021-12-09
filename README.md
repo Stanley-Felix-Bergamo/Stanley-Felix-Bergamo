@@ -1,6 +1,6 @@
-### Olá ! , Eu Sou Stanley Felix Bergamo 🖐️
+### Olá , Eu Sou Stanley Felix Bergamo
 
-## Minhas Redes Sociais :
+## 📧 Minhas Redes Sociais :
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stanley_felix_bergamo/)
 [![Twitte](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StanleyBergamo/)
@@ -16,7 +16,7 @@
 
 
 
-## Plataforma de ensino que eu utilizo
+## 🖥️ Plataforma de ensino que eu utilizo :
 <li>https://programadorbr.com/</li>
 <li>https://www.rocketseat.com.br/</li>
-
+<li>https://www.udemy.com/</li>
