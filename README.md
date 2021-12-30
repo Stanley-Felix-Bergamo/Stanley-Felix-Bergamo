@@ -27,7 +27,7 @@
  <a href = "mailto:mailto:stanley.felix.bergamo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
 
 
-## 🖥️ Plataforma de ensino que eu utilizo :
+## 🖥️ Plataforma de Ensino :
 <li>https://programadorbr.com/</li>
 <li>https://www.rocketseat.com.br/</li>
 <li>https://www.udemy.com/</li>
