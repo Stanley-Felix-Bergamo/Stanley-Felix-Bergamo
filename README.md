@@ -28,6 +28,10 @@
 
 
 ## 🖥️ Plataforma de Ensino :
-<li>https://programadorbr.com/</li>
-<li>https://www.rocketseat.com.br/</li>
-<li>https://www.udemy.com/</li>
+
+![unnamed-removebg-preview](https://user-images.githubusercontent.com/48367763/147785443-3db350e8-1fa0-4861-ad18-4a1a0b5abf74.png)        https://programadorbr.com/
+
+![unnamed-removebg-preview (1)](https://user-images.githubusercontent.com/48367763/147786219-c9952ef5-a1d4-4e49-bfd5-ac6b0e63f7a4.png)     https://www.rocketseat.com.br/
+                      
+![unnamed-removebg-preview (2)](https://user-images.githubusercontent.com/48367763/147786402-e1e79206-0a10-45dd-a9e3-8e7552b8e560.png)      https://www.udemy.com/
+
