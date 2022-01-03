@@ -8,15 +8,15 @@
 
 ## 👨‍💻 Tecnologias :
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; Html&emsp; 
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; Css&emsp; 
+   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;JavaScript&emsp;
 </div>  
 
 
 ## 💻 Ferramentas :
 <div style="display: inline_block">
- <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">
+ <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp; 
  </div> 
 
 ## 📧 Redes Sociais :
@@ -29,9 +29,13 @@
 
 ## 🖥️ Plataforma de Ensino :
 
-![unnamed-removebg-preview](https://user-images.githubusercontent.com/48367763/147785443-3db350e8-1fa0-4861-ad18-4a1a0b5abf74.png)        https://programadorbr.com/
+  
+![unnamed-removebg-preview](https://user-images.githubusercontent.com/48367763/147785443-3db350e8-1fa0-4861-ad18-4a1a0b5abf74.png)<a  href="https://programadorbr.com/">Programador BR</a>  
 
-![unnamed-removebg-preview (1)](https://user-images.githubusercontent.com/48367763/147786219-c9952ef5-a1d4-4e49-bfd5-ac6b0e63f7a4.png)     https://www.rocketseat.com.br/
-                      
-![unnamed-removebg-preview (2)](https://user-images.githubusercontent.com/48367763/147786402-e1e79206-0a10-45dd-a9e3-8e7552b8e560.png)      https://www.udemy.com/
+![unnamed-removebg-preview (2)](https://user-images.githubusercontent.com/48367763/147786402-e1e79206-0a10-45dd-a9e3-8e7552b8e560.png)<a href="https://www.udemy.com/">Udemy<a/>
+  
+![unnamed-removebg-preview (1)](https://user-images.githubusercontent.com/48367763/147786219-c9952ef5-a1d4-4e49-bfd5-ac6b0e63f7a4.png)<a href="https://www.rocketseat.com.br">Rocketseat</a>    
+
+                                                                                                                                            
+                                                                                                                                          
 
