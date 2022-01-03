@@ -28,13 +28,13 @@
 
 
 ## 🖥️ Plataforma de Ensino :
-
+<div style="display: inline_block">
+ <a  href="https://programadorbr.com/"><img align="center" height="70" width="60" src="https://programadorbr.com/assets/content/images/logo_progbr_blue.png">&nbsp; Programador BR &emsp;</a> 
   
-![unnamed-removebg-preview](https://user-images.githubusercontent.com/48367763/147785443-3db350e8-1fa0-4861-ad18-4a1a0b5abf74.png)<a  href="https://programadorbr.com/">Programador BR</a>  
-
-![unnamed-removebg-preview (2)](https://user-images.githubusercontent.com/48367763/147786402-e1e79206-0a10-45dd-a9e3-8e7552b8e560.png)<a href="https://www.udemy.com/">Udemy<a/>
   
-![unnamed-removebg-preview (1)](https://user-images.githubusercontent.com/48367763/147786219-c9952ef5-a1d4-4e49-bfd5-ac6b0e63f7a4.png)<a href="https://www.rocketseat.com.br">Rocketseat</a>    
+  
+</div>  
+
 
                                                                                                                                             
                                                                                                                                           
