@@ -35,12 +35,4 @@
 ## 🖥️ Plataforma de Ensino :
 <div style="display: inline_block">
  <a  href="https://programadorbr.com/"><img align="center" height="70" width="60" src="https://programadorbr.com/assets/content/images/logo_progbr_blue.png">&nbsp; Programador BR &emsp;</a> 
-  
-  
-  
 </div>  
-
-
-                                                                                                                                            
-                                                                                                                                          
-
