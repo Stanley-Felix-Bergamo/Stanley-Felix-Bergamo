@@ -1,8 +1,4 @@
 ## Olá , Meu Nome é Stanley Felix Bergamo  👋
-<p>
-
-</p>
-
 
 ## 📈 Minhas Estatísticas :
 
@@ -32,4 +28,6 @@
 ## 🖥️ Plataforma de Ensino :
 <div style="display: inline_block">
  <a  href="https://programadorbr.com/"><img align="center" height="70" width="60" src="https://programadorbr.com/assets/content/images/logo_progbr_blue.png">&nbsp; Programador BR &emsp;</a> 
+ <a  href="https://app.rocketseat.com.br/"><img align="center" height="70" width="60" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s176-c-k-c0x00ffffff-no-rj">&nbsp; Rocketseat &emsp;</a> 
 </div>  
+  
