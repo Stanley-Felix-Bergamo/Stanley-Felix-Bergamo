@@ -2,7 +2,8 @@
 
 ## 📈 Minhas Estatísticas :
 
-![Stanley GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&theme=highcontrast)](https://github.com/Stanley-Felix-Bergamo/github-readme-stats)
+![Stanley GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=highcontrast)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&theme=highcontrast)](https://github.com/Stanley-Felix-Bergamo/github-readme-stats)
 
 
 ## 👨‍💻 Tecnologias :
