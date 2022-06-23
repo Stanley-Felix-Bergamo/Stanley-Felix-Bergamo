@@ -10,8 +10,6 @@
 <div style="display: inline_block">
    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; Html&emsp; 
    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; Css&emsp; 
-   <img align="center" alt="Js" height="40" width="50" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">&nbsp;JavaScript&emsp;
-   <img align="center" alt="Bootstrap" height="40" width="50" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">&nbsp; Bootstrap&emsp;
 </div>  
 
 
