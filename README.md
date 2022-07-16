@@ -16,7 +16,8 @@
 
 ## 💻 Ferramentas :
 <div style="display: inline_block">
- <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp; 
+ <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp;  <img align="center" alt="VSCode" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp; Figma&emsp; 
+
  </div> 
 
 ## 📧 Redes :
