@@ -1,4 +1,4 @@
-## Olá , Meu Nome é Stanley Felix Bergamo  👋
+## Olá , Meu Nome é Stanley Felix Bergamo 
 🔷Desenvolvedor Front End
 
 ## 📈 Minhas Estatísticas :
