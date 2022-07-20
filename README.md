@@ -1,5 +1,5 @@
 ## Olá , Meu Nome é Stanley Felix Bergamo 
-🔷Desenvolvedor Front End
+🔷 Desenvolvedor Front End Junior
 
 ## 📈 Minhas Estatísticas :
 
