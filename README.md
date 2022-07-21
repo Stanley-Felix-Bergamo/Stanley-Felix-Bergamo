@@ -17,10 +17,13 @@
 
 ## 💻 Ferramentas :
 <div style="display: inline_block">
- <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp;  <img align="center" alt="VSCode" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp; Figma&emsp; 
-
- </div> 
+ <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp;<img align="center" alt="VSCode" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> Git&emsp;<img align="center" alt="VSCode" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp; Figma&emsp;
  
+ 
+ </div> 
+
+
+
 ## 📧 Redes :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-felix-bergamo/)
