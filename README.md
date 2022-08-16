@@ -22,7 +22,7 @@
 
 ## 💻 Ferramentas :
 <div style="display: inline_block">
- <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code&emsp;<img align="center" alt="VSCode" height="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> Git&emsp;
+ <img align="center" alt="VSCode" height="40" width="50" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg">&nbsp;Visual Studio Code
  
  </div> 
 
