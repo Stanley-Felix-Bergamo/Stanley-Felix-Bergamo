@@ -2,24 +2,26 @@
 
 ## Hello , My Name Is Stanley
 
- <p align="center">
-  <br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Front-end+Developer;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
+<p align="center"><br>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Front-end+Developer;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
 </p>
 
 ## 📈 My stats :
+<div align="center" >
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&theme=midnight-purple)](https://github.com/Stanley-Felix-Bergamo/github-readme-stats)
+
+</div>
 
 <!-- 
-[Stanley GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=midnight-purple)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&theme=midnight-purple)](https://github.com/Stanley-Felix-Bergamo/github-readme-stats)
--->
-
 <div align="center">
   <a href="https://github.com/Stanley-Felix-Bergamo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
-
+-->
 
 ## 👨‍💻 Technologies :
  
