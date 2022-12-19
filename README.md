@@ -7,6 +7,7 @@
 </p>
 
 ## 📈 My stats :
+<!-- 
 <div align="center" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,14 +15,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&theme=midnight-purple)](https://github.com/Stanley-Felix-Bergamo/github-readme-stats)
 
 </div>
+-->
 
-<!-- 
 <div align="center">
   <a href="https://github.com/Stanley-Felix-Bergamo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
--->
+
 
 ## 👨‍💻 Technologies :
  
