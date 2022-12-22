@@ -8,7 +8,7 @@
 
 ## 📈 My stats :
 
-<div style="display: flex" align="center" >
+<div style="display: inline align="center" >
   <a href="https://github.com/Stanley-Felix-Bergamo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=midnight-purple"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&langs_count=10&theme=midnight-purple"/>
