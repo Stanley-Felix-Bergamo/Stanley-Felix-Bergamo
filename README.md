@@ -8,7 +8,7 @@
 
 ## 📈 My stats :
 
-<div align="center">
+<div >
   <a href="https://github.com/Stanley-Felix-Bergamo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Stanley-Felix-Bergamo&show_icons=true&theme=midnight-purple"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-Felix-Bergamo&layout=compact&langs_count=10&theme=midnight-purple"/>
@@ -30,7 +30,7 @@
  <br>
  
 <div style="display: inline_block">
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img height="35rem"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
 </div> 
 
 <br>
