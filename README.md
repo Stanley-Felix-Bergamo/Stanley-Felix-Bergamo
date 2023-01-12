@@ -28,18 +28,11 @@
 -->
 </div>
 
-## 💻 Tools :
-<div style="display: inline_block">
- <img height="30rem"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
-</div> 
-
 ## 📧 Networks :
 <div style=" display: flex;">
-
  <a href="https://www.linkedin.com/in/stanley-felix-bergamo/">
  <img height="30rem" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
  </a>
-
 <a href="mailto:mailto:stanley.felix.bergamo@outlook.com">
  <img height="30rem" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
