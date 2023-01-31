@@ -3,7 +3,7 @@
 ## Hello , My Name Is Stanley
 
 <p align="center"><br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Front-end+Developer;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Engenheiro+Front-end;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
 </p>
 
 ## 📈 My stats :
