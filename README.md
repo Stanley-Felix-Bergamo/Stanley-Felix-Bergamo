@@ -15,7 +15,7 @@
 </div>
 
 
-## 👨‍💻 Technologies :
+## 👨‍💻 Knowledge :
  
 <div style="display: inline_block">
 
