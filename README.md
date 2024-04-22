@@ -1,10 +1,12 @@
+##  Olá, meu nome é Stanley !
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Desenvolvedor+Front-end;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
 
+Graduado em Ciência da Computação na Universidade Estácio de Sá.
 
-## Hello , My Name Is Stanley
-
-<p align="center"><br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&width=431&lines=Front-end+Engineer;&font=Ubuntu&width=400&height=45&color=9836F7&v&size=22"></a>
-</p>
+Tenho conhecimento das tecnologias:
+- HTML;
+- CSS, SASS ,Tailwind CSS e Styled Components;
+- JavaScript (Vanilla), ES6+,e React.js;
 
 ## 📈 My stats :
 
