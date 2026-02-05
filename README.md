@@ -5,8 +5,8 @@ Graduado em Ciência da Computação na Universidade Estácio de Sá.
 -->
 Tenho conhecimento das tecnologias:
 - HTML;
-- CSS,SASS,Bootstrap,Tailwind CSS e Styled Components;
-- JavaScript (Vanilla), ES6+,e React.js;
+- CSS, SASS, Bootstrap, Tailwind CSS e Styled Components;
+- JavaScript (Vanilla), ES6+, e React.js;
 
 <!-- 
 ## 📈 My stats :
